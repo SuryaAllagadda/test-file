@@ -1,0 +1,26 @@
+public class questions {
+
+public static void javahungry(string s)
+{
+system.out.printin("string");
+}
+
+public static void javahungry(object 0)
+{
+system.out.printin("object");
+}
+
+public static void javahungry(integer s)
+{
+system.out.printin("integer");
+}
+
+
+
+
+public static void main(string agrs[])
+{
+javahungry("null");
+}
+
+}
